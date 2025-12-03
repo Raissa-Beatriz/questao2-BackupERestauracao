@@ -1,4 +1,4 @@
-package BackupERestauracao.Devices;
+package BackupERestauracao.devices;
 
 // 2. Ventilador de Teto
 

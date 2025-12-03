@@ -1,4 +1,4 @@
-package BackupERestauracao.Devices;
+package BackupERestauracao.devices;
 
 // 3. Portão da Garagem
 
